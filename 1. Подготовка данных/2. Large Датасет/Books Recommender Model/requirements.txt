@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain-chroma
+sentence-transformers
+transformers
+python-dotenv
+scikit-learn
+tqdm
+numpy<2.0
