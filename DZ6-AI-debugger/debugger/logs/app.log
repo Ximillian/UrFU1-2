@@ -1,0 +1,4 @@
+  File "/home/aqqq/Urfu homeworks/UrFU1-2/DZ6-AI-debugger/run_recommender.py", line 23
+    df_books_p rocessed = pd.read_csv(PROCESSED_DATA_FILE)
+               ^^^^^^^^
+SyntaxError: invalid syntax

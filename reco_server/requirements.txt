@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pandas
+numpy
+torch # или torch-cpu, если GPU не нужен
+transformers
+sentence-transformers
+langchain
+langchain-community
+langchain-chroma
